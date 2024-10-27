@@ -1,0 +1,16 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	Liver_ZT0_1_R2.fastq(1)	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT0_1_R2.fastq(1)_fastqc.zip
+FastQC	all_sections	Liver_ZT12_1_R2.fastq(1)	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT12_1_R2.fastq(1)_fastqc.zip
+FastQC	all_sections	Heart_ZT0_2_R1	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Heart_ZT0_2_R1_fastqc.zip
+FastQC	all_sections	Liver_ZT12_1_R1.fastq(1)	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT12_1_R1.fastq(1)_fastqc.zip
+FastQC	all_sections	Heart_ZT12_1_R2.fastq(1)	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Heart_ZT12_1_R2.fastq(1)_fastqc.zip
+FastQC	all_sections	Liver_ZT0_1_R1	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT0_1_R1_fastqc.zip
+FastQC	all_sections	Liver_ZT0_2_R1	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT0_2_R1_fastqc.zip
+FastQC	all_sections	Heart_ZT12_1_R1	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Heart_ZT12_1_R1_fastqc.zip
+FastQC	all_sections	Heart_ZT12_2_R2.fastq(1)	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Heart_ZT12_2_R2.fastq(1)_fastqc.zip
+FastQC	all_sections	Heart_ZT12_2_R1.fastq(2)	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Heart_ZT12_2_R1.fastq(2)_fastqc.zip
+FastQC	all_sections	Heart_ZT0_2_R2	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Heart_ZT0_2_R2_fastqc.zip
+FastQC	all_sections	Heart_ZT0_1_R2	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Heart_ZT0_1_R2_fastqc.zip
+FastQC	all_sections	Liver_ZT12_2_R1	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT12_2_R1_fastqc.zip
+FastQC	all_sections	Liver_ZT12_2_R2.fastq(1)	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT12_2_R2.fastq(1)_fastqc.zip
+FastQC	all_sections	Liver_ZT0_2_R2	/mnt/c/Users/dharm/Documents/Biostate/QC_report/Liver_ZT0_2_R2_fastqc.zip
