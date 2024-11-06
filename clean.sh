@@ -2,8 +2,8 @@
 
 #!/bin/bash
 
-# Define the adapter file path (update this path to your adapter file)
-ADAPTER_FILE="TruSeq3-PE-2.fa"  # Update with the correct adapter file path
+# Define the adapter file path 
+ADAPTER_FILE="TruSeq3-PE-2.fa"  
 
 # Loop through all R1 gzipped files
 for R1_FILE in *_R1.fastq.gz; do
