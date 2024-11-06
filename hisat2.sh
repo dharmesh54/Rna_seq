@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the path to the HISAT2 genome index prefix
-HISAT2_INDEX="/mnt/c/Users/dharm/Documents/Biostate/index_file/GRCm39_index"  # Use the correct path to your index files
+HISAT2_INDEX="/mnt/c/Users/dharm/Documents/Biostate/index_file/GRCm39_index" 
 
 # Create an output directory for alignments if it doesn’t exist
 mkdir -p sam_file
